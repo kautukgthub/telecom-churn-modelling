@@ -13,3 +13,4 @@ There are two main models of payment in the telecom industry - postpaid (custome
 4. Princliple Component Analysis
 5. Logistic Regression
 6. Finding the important coefficents
+739r7
